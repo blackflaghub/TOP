@@ -28,9 +28,9 @@ Criações exclusivas para sua guilda, personagem ou servidor:
 
 ## 💰 Venda de Gold (ativos)
 
-- 🌍 **[Nome do Servidor X]** – Gold disponível sob demanda
-- 💬 Negociação via Discord: `SeuUser#0000`
-- 🔐 Transações seguras via [Plataforma de pagamento]
+- 🌍 **[Black Flag Gold]** – Gold disponível sob demanda
+- 💬 Negociação via Discord: `4zzarath`
+- 🔐 Transações seguras via [PIX]
 
 ---
 
@@ -46,7 +46,7 @@ Criações exclusivas para sua guilda, personagem ou servidor:
 
 ## 📞 Contato
 
-- Discord: `SeuUser#0000`
+- Discord: `4zzarath`
 - Site oficial: [blackflaghub.carrd.co](https://blackflaghub.carrd.co)
 
 ---
